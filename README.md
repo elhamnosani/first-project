@@ -1,2 +1,2 @@
 # first-project
-The first project that is coded by me whit the help of my master.
+My first project, which I coded with the help of my master.
