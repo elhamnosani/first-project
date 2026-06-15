@@ -19,7 +19,9 @@ A simple plumbing website built with HTML and CSS.
 ---
 
 ## 📸 Preview
-
+![Preview](./images/first.png)
+![Preview](./images/second.png)
+![Preview](./images/third.png)
 <p align="center">
   <img src="./images/preview.png" alt="Project Preview" width="900">
 </p>
