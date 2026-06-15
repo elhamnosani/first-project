@@ -46,21 +46,7 @@ The design focuses on creating a clean and professional appearance for a local p
 ## 🛠️ Technologies
 
 - HTML5
-- CSS3
-
----
-
-## 📂 Project Structure
-
-```text
-first-project/
-│
-├── index.html
-├── style.css
-├── images/
-└── README.md
-```
-
+- CSS
 ---
 
 ## 🎯 What I Practiced
@@ -70,7 +56,6 @@ first-project/
 - Flexbox
 - Hover Effects
 - Project Structure
-- GitHub Pages Deployment
 
 ---
 
